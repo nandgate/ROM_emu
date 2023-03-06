@@ -1,0 +1,4 @@
+hardware/Rom_emu/Rom_emu-backups
+*.zip
+*.kicad_prl
+hardware/Rom_emu/fp-info-cache
